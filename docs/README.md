@@ -1,7 +1,7 @@
 # The Recurse Maths
 **author: Anthony KOUROGHLI (anthkrg)**
 
-:fr: [Français](#français) | :uk: [English](#english)
+🇫🇷 [Français](#français) | 🇬🇧 [English](#english)
 
 ## [Willkommen, Bienvenue, Welcome! (Click Me !)](https://www.youtube.com/watch?v=IqeMMN6aeJE)
 
@@ -22,7 +22,7 @@ This site was born from the passion of someone eager to share their knowledge ab
 
 🔗 [TheRecurseMaths](https://github.com/therecursemaths/therecursemaths.github.io)
 
-🖼️ *![Alt text](docs/img/TheRecurseMaths.png "index.md")*
+🖼️ *![Alt text](../img/TheRecurseMaths.png "index.md")*
 
 ---
 
@@ -155,7 +155,7 @@ Ce site est né de la volonté d'un passionné de partager ses connaissances sur
 
 🔗 [TheRecurseMaths](https://github.com/therecursemaths/therecursemaths.github.io)
 
-🖼️ *![Alt text](docs/img/TheRecurseMaths.png "index.md")*
+🖼️ *![Alt text](../img/TheRecurseMaths.png "index.md")*
 
 ---
 
