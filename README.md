@@ -1,4 +1,4 @@
-# TheRecurseMaths
+# The Recurse Maths
 **author: Anthony KOUROGHLI (anthkrg)**
 
 
